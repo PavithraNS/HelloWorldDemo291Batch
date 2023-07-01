@@ -1,0 +1,256 @@
+   12  git push origin master
+   16  git init
+   17  git pull origin master
+   18  git remote add origin https://github.com/PavithraNS/CabInvoiceGenerator236Batch.git
+   19  git pull origin master
+   21  git add .
+   22  git commit -m "CabInvoice Generator"
+   23  git push origin master
+   64  git clone https://github.com/beingdivyadixit/AddressBookSystem.git
+   67  git remote -v
+   74  git init
+   75  git remote add origin https://github.com/PavithraNS/DivyaKumarAddressBook.git
+   76  git remote -v
+   77  git pull origin master
+   79  git add .
+   80  git commit -m "Adding AddressBook"
+   81  git push origin master
+   82  git pull origin master
+   83  git pull origin master --allow-unrelated-histories
+   84  git push origin master
+   85  git status
+   86  git push origin master
+  118  git init
+  120  git remote add origin https://github.com/PavithraNS/OopsDemoAndGitHubRules267Batch.git
+  121  git remote -v
+  126  git status
+  127  git pull origin master
+  129  git status
+  131  git add .
+  132  git status
+  133  git commit -m "[Pavithra] Adding Welcome message"
+  134  git status
+  135  git push origin master
+  137  git status
+  138  git checkout -b ClassAndObjectConcept
+  139  git status
+  140  git add .
+  141  git commit -m "[Pavithra] Adding car class"
+  142  git push origin ClassAndObjectConcept 
+  144  git checkout master
+  145  git merge ClassAndObjectConcept 
+  146  git status
+  147  git push origin master
+  152  git init
+  154  git status
+  156  git remote add origin https://github.com/PavithraNS/HelloWorldDemo276Batch.git
+  157  git remote -v
+  158  git branch -M main
+  159  git remote remove origin
+  160  git remote -v
+  161  git remote add origin https://github.com/PavithraNS/HelloWorldDemo276Batch.git
+  162  git remote -v
+  164  git branch -M main
+  165  git status
+  166  git init
+  167  git remote -v
+  168  git branch -M main
+  170  git branch -M main
+  171  git branch
+  173  git pull origin main
+  175  git status
+  176  git add .
+  177  git status
+  178  git commit -m "[Pavithra] Adding Welcome message"
+  179  git status
+  181  git push origin main
+  182  git pull remote main
+  183  git pull origin main
+  189  git status
+  190  git add .
+  191  git status
+  192  git commit -m "[Pavithra] Adding local changes"
+  193  git push origin main
+  194  git pull origin main
+  195  git status
+  196  git add .
+  197  git status
+  198  git commit -m "[Pavithra] Resolved conflict"
+  199  git push origin main
+  201  git checkout -b CSharpBasics
+  202  git branch
+  204  git status
+  205  git add .
+  206  git status
+  207  git commit -m "[Pavithra] Adding Human program with instance members"
+  208  git push origin CSharpBasics 
+  209  git checkout main
+  210  git merge CSharpBasics 
+  211  git push origin main
+  215  git init
+  217  git remote origin add https://github.com/PavithraNS/EmployeeWageComputeDemo276Batch.git
+  218  git remote add origin https://github.com/PavithraNS/EmployeeWageComputeDemo276Batch.git
+  220  git remote -v
+  221  git branch -M main
+  223  git pull origin master
+  225  git status
+  226  git add .
+  227  git status
+  228  git commit -m "[Pavithra] adding welcome message"
+  229  git push origin master
+  231  git checkout -b EmployeeAttendenceUC1
+  232  git checkout Test
+  233  git branch
+  235  git status
+  236  git add .
+  237  git commit -m "[Pavithra] Modify finding employee attendence"
+  238  git push origin EmployeeAttendenceUC1 
+  239  git checkout master
+  241  git merge EmployeeAttendenceUC1 
+  242  git push origin master
+  243  git status
+  244  git restore EmployeeWageComputeDemo276Batch/Program.cs
+  245  git status
+  246  git checkout -b CalculateWageUC2
+  247  git status
+  248  git add .
+  249  git commit -m "[Pavithra] Modify Calculating employee's wage"
+  250  git push origin CalculateWageUC2 
+  251  git checkout master
+  252  git merge CalculateWageUC2 
+  253  git push origin master
+  260  git init
+  262  git status
+  263  git remote add origin https://github.com/PavithraNS/HelloWorldDemo281Batch.git
+  264  git remote -v
+  265  git branch -M main
+  267  git pull origin master
+  270  git status
+  271  git add .
+  273  git status
+  274  git commit -m "[Pavithra] Adding helloworld project"
+  275  git status
+  276  git push origin master
+  278  git clone https://github.com/PavithraNS/DSHashTable130Batch.git
+  287  git clone https://github.com/PavithraNS/HeloRecap.git
+  292  git clone https://github.com/PavithraNS/HeloRecap.git
+  297  git log
+  304  git pull origin master
+  305  git status
+  306  git add .
+  307  git status
+  308  git commit -m "[Pavithra] Modify Creating conflict"
+  309  git push origin master
+  310  git pull origin master
+  311  git status
+  312  git add .
+  313  git status
+  314  git commit -m "[Pavithra] Modify Resloved conflict"
+  315  git status
+  316  git push origin master
+  318  git branch
+  319  git checkout -b ClassAndObjectBranch
+  320  git branch
+  321  git status
+  322  git add .
+  323  git commit -m "[Pavithra] Adding Human.cs"
+  324  git push origin ClassAndObjectBranch 
+  325  git checkout master
+  326  git merge ClassAndObjectBranch 
+  327  git push origin master
+  332  git init
+  334  git remote add origin https://github.com/PavithraNS/EmployeeWageComputation281Batch.git
+  335  git remote -v
+  337  git pull origin master
+  339  git status
+  340  git add .
+  341  git status
+  342  git commit -m "[Pavithra] Adding Welcome Message"
+  343  git push origin master
+  344  git checkout -b EmployeeAttendenceUC1
+  345  git status
+  346  git add .
+  347  git commit -m "[Pavithra] Modify Checking Empkoyee is present or not"
+  348  git push origin EmployeeAttendenceUC1 
+  349  git checkout master
+  350  git merge EmployeeAttendenceUC1 
+  351  git push origin master
+  356  git branch
+  357  git checkout -b CalculateWageUC2
+  358  git status
+  359  git add .
+  360  git commit -m "[Pavithra] Modify Calculating employee wage"
+  361  git push origin CalculateWageUC2 
+  362  git status
+  363  git checkout master
+  364  git status
+  365  git merge CalculateWageUC2 
+  366  git push origin master
+  424  git init
+  426  git remote add origin https://github.com/PavithraNS/TestProject290Batch.git
+  427  git remote -v
+  428  git branch -M main
+  429  git branch -m master main
+  431  git pull origin master
+  433  git add .
+  434  git status
+  435  git commit -m "[Pavithra] Adding Welcome message"
+  436  git status
+  437  git push origin master
+  438  git checkout -b ArrayConcept
+  439  git branch
+  440  git status
+  441  git add .
+  442  git status
+  443  git commit -m "[Pavithra] Adding ArrayConcept program"
+  444  git status
+  445  git push origin ArrayConcept
+  446  git checkout master 
+  447  git merge ArrayConcept 
+  448  git push origin master
+  449  git clone https://github.com/PavithraNS/HelloWorldDemo291Batch.git
+  454  git init
+  456  git remote add origin https://github.com/PavithraNS/HelloWorldDemo291Batch.git
+  457  git remote -v
+  458  git branch -M main
+  459  git pull origin master
+  461  git add .
+  462  git status
+  463  git commit -m "[Pavithra adding Welcome message]"
+  464  git status
+  465  git push origin master
+  467  git branch
+  468  git branch CalculateProgram
+  469  git branch
+  470  git checkout CalculateProgram 
+  471  git add .
+  472  git commit -m "[Pavithra] creating/pushing CalculateProgram branch"
+  473  git push origin CalculateProgram 
+  474  git checkout master
+  476  git checkout CalculateProgram 
+  478  git init
+  480  git remote add origin origin https://github.com/PavithraNS/SQLSqeries.git
+  481  git remote add origin https://github.com/PavithraNS/SQLSqeries.git
+  482  git remote -v
+  483  git branch -M main
+  484  git add .
+  485  git commit -m "[Pavithra] adding sql file"
+  486  git push origin master
+  487  git checkout -b UC1Branch
+  488  git add .
+  489  git commit -m "[Pavithra] updated sql file"
+  490  git push origin UC1Branch 
+  494  git branch
+  495  git status
+  496  git add .
+  497  git commit -m "[Pavithra] modified program.cs and adding additionMethod"
+  498  git push origin CalculateProgram 
+  503  git status
+  504  git add .
+  505  git commit -m "[Pavithra] modified calculator.cs file by adding Substarction method"
+  506  git push origin CalculateProgram 
+  507  git checkout master
+  508  git merge CalculateProgram 
+  509  git status
+  510  git push origin master
+  511  history | grep git>gitCommands.txt
