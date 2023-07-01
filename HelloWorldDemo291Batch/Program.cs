@@ -14,6 +14,7 @@ namespace HelloWorldDemo291Batch
             //object creation of any class
             Calculator calculator = new Calculator();
             calculator.AdditionOfTwoNumbers();
+            calculator.DifferenceOfTwoNumbers();
             Console.ReadLine();
         }
     }
